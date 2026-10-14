@@ -8,7 +8,7 @@ The projects cover robotic motion simulation, electromechanical systems modellin
 
 ## View Presentation
 
-**[View Engineering Simulation and Validation Presentation](https://drive.google.com/file/d/1XLNcC5zmzNzM909LPnKYbcqwkkJQ8q4o/view?usp=sharing)**
+**[View Engineering Simulation and Validation Presentation](https://drive.google.com/file/d/1sXzB8ngNFzJlQFl1CtJ28v2O6JLBdbE3/view?usp=sharing)**
 
 The presentation is hosted on Google Drive for online viewing.
 
